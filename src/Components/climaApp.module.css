@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    margin-top: 75px;
+    border-radius: 10px;
+}
+
+.formulario_container{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.formulario_input{
+    width: 68%;
+    height: 30px;
+    border: none;
+    font-size: 1.5rem;
+    background-color: #495168;
+    margin: 0;
+    text-transform: capitalize;
+    color: white;
+    border-radius: 3px;
+}
+
+.formulario_boton{
+    width: 30%;
+    height: 30px;
+    background: #d8ccb2;
+    color: black;
+    border: none;
+    margin: 0;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+}
+
+.mostrar_titulo{
+    font-size: 2rem;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.divicion{
+    display: flex;
+    justify-content: space-around;
+    font-size: 1rem;
+    color: darkcyan;
+}
+
+.divcion_img{
+    width: 100px;
+    height: 100px; 
+}
+
+
